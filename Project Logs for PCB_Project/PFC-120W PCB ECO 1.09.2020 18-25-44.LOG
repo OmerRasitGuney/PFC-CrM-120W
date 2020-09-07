@@ -1,0 +1,103 @@
+Added Component: Designator=BR1(GBU6J)
+Added Component: Designator=C1(ECWFA2J474JC)
+Added Component: Designator=C2(ECWFA2J474JC)
+Added Component: Designator=C3(BFC233923104)
+Added Component: Designator=C4(CAPPRD750W80D1825H3750)
+Added Component: Designator=C5(CAPC2012X145N)
+Added Component: Designator=D1(DPAK-STTH5L06)
+Added Component: Designator=F1(FUSC10131X312N)
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Added Component: Designator=J1(691214110003)
+Added Component: Designator=J2(RHDR2W90P0X508_1X2_1066X810X1000P)
+Added Component: Designator=L1(AIRD03181K)
+Added Component: Designator=L2(SC05E45JH)
+Added Component: Designator=L3(L-300uH-LBoost)
+Added Component: Designator=Q1(DPAK-FCD600N60Z)
+Added Component: Designator=R1(RESC3216X60N)
+Added Component: Designator=R2(0805_RES)
+Added Component: Designator=R3(RESC2012X65N)
+Added Component: Designator=R4(RESC3216X60N)
+Added Component: Designator=R5(RESC2012X65N)
+Added Component: Designator=R6(RESC2012X65N)
+Added Component: Designator=R7(RESC2012X60N)
+Added Component: Designator=R8(RESC2012X65N)
+Added Pin To Net: NetName=AC-L-BR Pin=BR1-2
+Added Pin To Net: NetName=AC-L-BR Pin=C2-1
+Added Pin To Net: NetName=AC-L-BR Pin=L1-2
+Added Net: Name=AC-L-BR
+Added Pin To Net: NetName=AC-L Pin=F1-1
+Added Pin To Net: NetName=AC-L Pin=J1-1
+Added Net: Name=AC-L
+Added Pin To Net: NetName=EARTH Pin=BR1-3
+Added Pin To Net: NetName=EARTH Pin=C1-2
+Added Pin To Net: NetName=EARTH Pin=C2-2
+Added Pin To Net: NetName=EARTH Pin=J1-3
+Added Pin To Net: NetName=EARTH Pin=L2-3
+Added Pin To Net: NetName=EARTH Pin=L2-4
+Added Net: Name=EARTH
+Added Pin To Net: NetName=GND Pin=BR1-4
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBR1_1 Pin=BR1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=C3-1
+Added Pin To Net: NetName=NetBR1_1 Pin=L3-6
+Added Pin To Net: NetName=NetBR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=R2-1
+Added Net: Name=NetBR1_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F1-2
+Added Pin To Net: NetName=NetC1_1 Pin=L2-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D1-K
+Added Pin To Net: NetName=NetC4_1 Pin=J2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R3-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=IC1-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=L3-8
+Added Pin To Net: NetName=NetD1_A Pin=Q1-D
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R5-2
+Added Pin To Net: NetName=NetIC1_1 Pin=R8-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=R6-1
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=Q1-S
+Added Pin To Net: NetName=NetIC1_4 Pin=R7-1
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R4-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=Q1-G
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_8 Pin=R2-2
+Added Net: Name=NetIC1_8
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL3_5 Pin=L3-5
+Added Pin To Net: NetName=NetL3_5 Pin=R4-1
+Added Net: Name=NetL3_5
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Net: Name=NetR3_2
+Added Class: Name=PFC-120W
+Added Room: Name=PFC-120W

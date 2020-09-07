@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=EARTH Pin=C2-2
+Removed Pin From Net: NetName=EARTH Pin=L2-4
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L2-4
+Added Net: Name=NetC2_2
+Added Member To Class: ClassName=PFC-120W Member=Component C5 C-47uF-25V-1206
+Added Member To Class: ClassName=PFC-120W Member=Component C6 C-1nF-50V-0805

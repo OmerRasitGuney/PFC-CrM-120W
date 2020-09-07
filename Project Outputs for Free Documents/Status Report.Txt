@@ -1,0 +1,34 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:12:10 On 2.09.2020
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PFC-120W.PcbDoc]
+   Generated File[PFC-120W.GTL]
+   Generated File[PFC-120W.GBL]
+   Generated File[PFC-120W.GPB]
+   Generated File[PFC-120W.GPT]
+   Generated File[PFC-120W.GTO]
+   Generated File[PFC-120W.GTP]
+   Generated File[PFC-120W.GTS]
+   Generated File[PFC-120W.GBS]
+   Generated File[PFC-120W.GBP]
+   Generated File[PFC-120W.GBO]
+   Generated File[PFC-120W.GKO]
+   Generated File[PFC-120W.GM1]
+   Generated File[PFC-120W.GM13]
+   Generated File[PFC-120W.GM15]
+   Generated File[PFC-120W.GML]
+   Generated File[PFC-120W.1]
+   Generated File[PFC-120W.GD1]
+   Generated File[PFC-120W.GG1]
+   Generated File[PFC-120W.RUL]
+   Generated File[PFC-120W.EXTREP]
+   Generated File[PFC-120W.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 18:12:15 On 2.09.2020
